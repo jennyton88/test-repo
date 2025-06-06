@@ -1,9 +1,0 @@
-title
-summary
-Here is another file.
-
-Testing an edit.
-
-Testing a new edit here.
-
-Testing a new edit here x2
